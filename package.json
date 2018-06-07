@@ -1,0 +1,22 @@
+{
+  "name": "oss-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudero/OSS-Dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudero/OSS-Dashboard/issues"
+  },
+  "homepage": "https://github.com/claudero/OSS-Dashboard#readme",
+  "dependencies": {
+    "forge-apis": "^0.4.1"
+  }
+}
